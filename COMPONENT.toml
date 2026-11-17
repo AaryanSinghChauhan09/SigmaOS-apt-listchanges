@@ -3,7 +3,7 @@ name = "SigmaOS-apt-listchanges"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "apt-listchanges component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
